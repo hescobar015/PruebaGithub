@@ -19,7 +19,7 @@ class Login extends CI_Controller
 			redirect('/paises');
 		}
 	
-		$this->load->view('login');
+		//$this->load->view('login');
 	}
 	
 	/**
